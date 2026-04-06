@@ -2,10 +2,15 @@
 //
 
 #include <iostream>
+using namespace std;
    
 int main()
+
 {
-    std::cout << "Hello World!\n"; 
+
+    cout << "Hello world! This is my first C++ program." << endl;
+
+    cout << "Hello from Marcus! This is my first Git Commit." << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
