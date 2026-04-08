@@ -8,9 +8,9 @@ int main()
 
 {
 
-    cout << "Hello world! This is my first C++ program." << endl;
+    cout << "Hello from Marcus! This is my first Git commit." << endl;
 
-    cout << "Hello from Marcus! This is my first Git Commit." << endl;
+    cout << "Git makes collaboration easy!" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
