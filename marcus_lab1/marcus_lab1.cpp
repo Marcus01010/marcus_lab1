@@ -1,4 +1,4 @@
-// marcus_lab1.cpp Edited directly on Github
+// marcus_lab1.cpp Edited directly on Github 
 //
 
 #include <iostream>
