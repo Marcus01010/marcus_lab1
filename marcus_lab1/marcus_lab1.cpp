@@ -8,7 +8,7 @@ int main()
 
 {
 
-    cout << "Hello from Marcus! This is my first Git commit." << endl;
+    cout << "Hello from Marcus! This is my first Git commit. =" << endl;
 
     cout << "Git makes collaboration easy!" << endl;
 }
