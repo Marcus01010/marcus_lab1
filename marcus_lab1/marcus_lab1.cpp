@@ -1,4 +1,4 @@
-// marcus_lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// marcus_lab1.cpp Edited directly on Github
 //
 
 #include <iostream>
